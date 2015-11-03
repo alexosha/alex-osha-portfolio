@@ -1,0 +1,25 @@
+body {
+	background-color: #7D837C;
+	font-family: 'Ubuntu', sans-serif;
+}
+.top-navigation {
+	background-color: #EAEAEA;
+}
+.top-navigation h1{
+	float: right;
+	margin-right: 2em;
+	margin-top: 0em;
+	text-shadow: 2px 2px 2px #000;
+	color: #EAEAEA;
+	font-size: 4em;
+}
+.top-navigation ul {
+	display: inline;
+	float: right;
+	text-shadow: 1px 1px 1px #000;
+	color: #EAEAEA;
+	margin-top: 1.3em;
+}
+.logo {
+	margin-left: 2em;
+}
