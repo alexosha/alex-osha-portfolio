@@ -20,6 +20,11 @@ body {
 	color: #EAEAEA;
 	margin-top: 1.3em;
 }
+.top-navigation a {
+	text-shadow: 2px 2px 2px #000;
+	color: #EAEAEA;
+	text-decoration: none;
+}
 .logo {
 	margin-left: 2em;
 }
