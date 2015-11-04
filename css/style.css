@@ -28,3 +28,44 @@ body {
 .logo {
 	margin-left: 2em;
 }
+.about-me {
+	margin-left: 10em;
+	margin-right: 10em;
+}
+.about-me h1 {
+	font-size: 1.5em;
+}
+.about-me {
+	background-color: #B1B1B1;
+	margin-left: 8em;
+    margin-right: 8em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.portfolio h1{
+	text-align: center;
+	margin-top: 2em;
+	margin-bottom: 1em;
+	font-size: 2.5em;
+}
+.portfolio ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.portfolio li {
+    display: inline;
+    margin: 3em;
+}
+footer {
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+hr {
+    border: 0;
+    border-top: 1px solid #7D837C;
+    margin: 1.313rem 0;
+}
