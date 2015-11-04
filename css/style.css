@@ -44,19 +44,19 @@ body {
     padding-top: 1em;
     padding-bottom: 1em;
 }
-.portfolio h1{
+.projects h1{
 	text-align: center;
 	margin-top: 2em;
 	margin-bottom: 1em;
 	font-size: 2.5em;
 }
-.portfolio ul {
+.projects ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     text-align: center;
 }
-.portfolio li {
+.projects li {
     display: inline;
     margin: 3em;
 }
